@@ -18,5 +18,5 @@ it is currently in beta so expect new public releases very often.
 ### For IOS : Coming soon...
 
 ## 💡 Support/Bug Report/Suggestion :
-### Join the discord [here](https://discord.gg/ApDDJKmANg) , in here you're welcomed to make a bug report or suggestion to help us making Classic Us better! Any questions you can ask in the support channel
+### Join the discord [here](https://discord.gg/ApDDJKmANg) , in there you're welcomed to make a bug report or suggestion to help us making Classic Us better! Any questions you can ask in the support channel
 
