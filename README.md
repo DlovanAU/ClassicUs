@@ -1,6 +1,4 @@
 # ClassicUs
-Classic Among Us with extra features and modern feel, just better ;)
-this project has been worked on for so long and has finally come to life and thanks to my awesome friends!
 
-it is currently in beta so expect new public releases very often.
-
+ClassicUs is a project that is trying to refine the classic & old feeling of Among Us 2020-2021 and it is based on a older version of Among Us.
+![ClassicUsGif1](https://github.com/user-attachments/assets/b841bc31-012b-417c-b409-d54d23a04685)
