@@ -47,7 +47,7 @@ for iOS users, sorry but you gotta wait a bit until we find a workaround due to 
 
 # Where do I report issues & bugs??
 
-you can report issues in our official discord server! https://discord.gg/auad or create issue comments here on this github repo.
+you can report issues in our official discord server! [AUAD Discord](https://discord.gg/auad) or create issue comments here on this github repo.
 
 # Will the game have any quickchat restrictions or reporting? How will I report cheaters & hackers?
 
@@ -56,8 +56,8 @@ The game will have no quickchat restrictions or age verifications, but that does
 Thanks for reading! I hope you understood!
 
 as always you should always check our social media out:
-https://auantidater.com/
-https://discord.gg/auad
-https://www.youtube.com/@RealAUAD
-https://x.com/AmogusAntiDater
+[The AUAD Website](https://auantidater.com/)
+[AUAD Discord Server](https://discord.gg/auad)
+[Our Youtube Channel](https://www.youtube.com/@RealAUAD)
+[Our Twitter](https://x.com/AmogusAntiDater)
 
