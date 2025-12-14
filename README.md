@@ -31,7 +31,8 @@ currently we are planning to support the follow:
 - <img width="1619" height="1440" alt="image" src="https://github.com/user-attachments/assets/fbf999b9-9d61-46d8-b224-c404072b5a0e" />
 
 # What is that Party Button in the Main Menu Screen???? 
-<img width="549" height="150" alt="image" src="https://github.com/user-attachments/assets/5b7c5d4a-b0cc-4a71-adca-22e95d3cf503" />
+<img width="549" height="150" alt="image" src="https://github.com/user-attachments/assets/d6376de5-7c00-4a84-9ba0-89558b2336cd" />
+
 
 
 Our goal for the party menu is that you can see online created maps made by people in that section and that you can download them to play immediately just like our favourite game ***cough cough*** Geometry Dash and you'll be able to dislike or like the map *yes this is our inspiration from Geometry Dash*.
