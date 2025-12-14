@@ -15,7 +15,7 @@ Speaking of playing online with others, you can play up to *100 players!*
 
 # how many languages will the game support?
 
-currently we are planning to support the follow:
+currently we only have the following:
 - English
 - Portuguese
 - Argentinian Spanish
