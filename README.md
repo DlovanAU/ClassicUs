@@ -51,7 +51,7 @@ you can report issues in our official discord server! [AUAD Discord](https://dis
 
 # Will the game have any quickchat restrictions or reporting? How will I report cheaters & hackers?
 
-The game will have no quickchat restrictions or age verifications, but that does not mean that you cannot be banned. You can **still be banned from the game.** Obey the TOS and you'll be fine, you'll see it when you boot the game up for the first time or right in the credit section: ![ClassicUsGif3](https://github.com/user-attachments/assets/edb040e8-11b9-489f-8384-87b89f20b651) You can still report people in the kick button menu: <img width="437" height="241" alt="image" src="https://github.com/user-attachments/assets/5822d98c-8212-4b3b-85ca-1da354878117" /> that will be sent to staffs to look at & staffs can have the immunity to not get banned & kicked off of a lobby and ban a player in realtime once found the TOS breakers with hacking, cheating or bad behaviour, please behave as staffs have the rights to be immune to any kick & bans.
+The game will have no quickchat restrictions or age verifications, but that does not mean that you cannot be banned. You can **still be banned from the game.** Obey the TOS and you'll be fine, you'll see it when you boot the game up for the first time or right in the credit section: ![ClassicUsGif3](https://github.com/user-attachments/assets/edb040e8-11b9-489f-8384-87b89f20b651) You can still report people in the kick button menu:<img width="437" height="241" alt="image" src="https://github.com/user-attachments/assets/5822d98c-8212-4b3b-85ca-1da354878117" /> that will be sent to staffs to look at & staffs can have the immunity to not get banned & kicked off of a lobby and ban a player in realtime once found the TOS breakers with hacking, cheating or bad behaviour, please behave as staffs have the rights to be immune to any kick & bans.
 
 Thanks for reading! I hope you understood!
 
@@ -61,3 +61,5 @@ as always you should always check our social media out:
 [Our Youtube Channel](https://www.youtube.com/@RealAUAD)
 [Our Twitter](https://x.com/AmogusAntiDater)
 
+
+## See you on 22nd December!!!!
