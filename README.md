@@ -60,6 +60,7 @@ as always you should always check our social media out:
 [AUAD Discord Server](https://discord.gg/auad)
 [Our Youtube Channel](https://www.youtube.com/@RealAUAD)
 [Our Twitter](https://x.com/AmogusAntiDater)
+[Our KO-FI Donation](https://ko-fi.com/auad)
 
 
 ## See you on 22nd December!!!!
