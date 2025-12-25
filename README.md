@@ -62,5 +62,3 @@ as always you should always check our social media out:
 [Our Twitter](https://x.com/AmogusAntiDater)
 [Our KO-FI Donation](https://ko-fi.com/auad)
 
-
-## See you on 22nd December!!!!
